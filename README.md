@@ -20,12 +20,15 @@
 
 <div style="background-color: #F3E9FF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="font-size: 28px; color: #6E5494;">About me</h2>
-  <p style="font-size: 16px; color: #6E5494;">Yasmein Asfour is a sophomore from Chicago, Illinois. She is Palestinian-American and pursuing a major in Computer Engineering. She is interested in joining organizations such as the Society of Women Engineers, Engineers Without Boarders, Institute of Electrical and Electronic Engineering, and the Muslim Student Association. Having traveled and lived abroad for several years, Yasmein looks forward to participating in the Study Abroad program in either Korea or London. She is enthusiastic about living in DC and hopes to learn more about the historical significance it holds.</p>
+  <div style="display: flex; align-items: center;">
+    <p style="font-size: 16px; color: #6E5494; flex: 1;">
+      Yasmein Asfour is a sophomore from Chicago, Illinois. She is Palestinian-American and pursuing a major in Computer Engineering. She is interested in joining organizations such as the Society of Women Engineers, Engineers Without Borders, Institute of Electrical and Electronic Engineering, and the Muslim Student Association. Having traveled and lived abroad for several years, Yasmein looks forward to participating in the Study Abroad program in either Korea or London. She is enthusiastic about living in DC and hopes to learn more about the historical significance it holds.
+    </p>
 
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="me.jpeg" width="200" style="border: 5px solid #C8B8F2; border-radius: 15px; margin-left: 20px;" />
+   <img src="me.jpeg" width="200" style="border: 5px solid #C8B8F2; border-radius: 15px; margin-left: 20px;" />
   </div>
 </div>
+
 
 
 <!-- Projects Section -->
