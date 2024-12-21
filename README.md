@@ -1,4 +1,3 @@
-
 <div style="font-family: Arial, sans-serif; color: #6E5494; text-align: center; margin: 20px 0;">
   <h1 style="font-size: 36px; font-weight: bold; margin-bottom: 10px;">✨ Welcome to Yasmein's Portfolio ✨</h1>
 </div>
@@ -35,8 +34,8 @@
     <li>
       <p>🌟 iPad Docking Station</p>
       <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-        <a href="https://youtube.com/shorts/sxVqf03esyg?feature=share" target="_blank">
-          <img src="ipoddockingstation.jpg" width="200" />
+        <a href="https://youtube.com/shorts/sxVqf03esyg?feature=share" target="_blank" style="border: 2px solid #6E5494; border-radius: 5px; transition: transform 0.3s;">
+          <img src="ipoddockingstation.jpg" width="200" style="border-radius: 5px;" />
         </a>
       </div>
     </li>
@@ -44,15 +43,17 @@
    <li>
       <p>🌟 SRAD Flight Computer</p>
       <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-        <img src="laptopgif.jpg" width="200" />
+        <a href="#" style="border: 2px solid #6E5494; border-radius: 5px; transition: transform 0.3s;">
+          <img src="laptopgif.jpg" width="200" style="border-radius: 5px;" />
+        </a>
       </div>
     </li>
 
    <li>
       <p>🌟 8-bit Shift Register</p>
       <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-        <a href="https://youtu.be/f9jQME5JrBg" target="_blank">
-          <img src="8bitshiftregister.jpg" width="200" />
+        <a href="https://youtu.be/f9jQME5JrBg" target="_blank" style="border: 2px solid #6E5494; border-radius: 5px; transition: transform 0.3s;">
+          <img src="8bitshiftregister.jpg" width="200" style="border-radius: 5px;" />
         </a>
       </div>
     </li>
@@ -76,3 +77,9 @@
     Python, C, Java, JavaScript, HTML, CSS, Soldering, Arduino, CAD (Onshape), MATLAB, PCB Assembly
   </p>
 </div>
+
+<style>
+a:hover {
+  transform: scale(1.1);
+}
+</style>
