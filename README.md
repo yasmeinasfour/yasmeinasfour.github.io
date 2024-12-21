@@ -32,23 +32,23 @@
   <h2 style="font-size: 28px; color: #6E5494;">🚀 My Projects</h2>
   <div style="display: flex; justify-content: center; gap: 20px;">
 
-   <div style="text-align: center;">
+  <div style="text-align: center;">
       <a href="https://youtube.com/shorts/sxVqf03esyg?feature=share" target="_blank">
-        <img src="ipoddockingstation.jpg" width="200" style="border-radius: 10px;" />
+        <img src="ipoddockingstation.jpg" width="200" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
       </a>
       <p><a href="https://docs.google.com/document/d/1XPVfb4n8_hlz0ms9uymJM3RGUcBjYHxe/edit?usp=sharing&ouid=104851320721998070053&rtpof=true&sd=true" target="_blank">iPod Docking Station Documentation</a></p>
     </div>
 
   <div style="text-align: center;">
       <a href="#" target="_blank">
-        <img src="laptopgif.jpg" width="200" style="border-radius: 10px;" />
+        <img src="laptopgif.jpg" width="200" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
       </a>
       <p><a href="https://docs.google.com/document/d/1NXahZG1kMCwJgoy31Wl9p9HfCBf4LhcvIHkZc0R1yKk/edit?usp=sharing" target="_blank">SRAD Flight Computer Documentation</a></p>
     </div>
 
-  <div style="text-align: center;">
+   <div style="text-align: center;">
       <a href="https://youtu.be/f9jQME5JrBg" target="_blank">
-        <img src="8bitshiftregister.jpg" width="200" style="border-radius: 10px;" />
+        <img src="8bitshiftregister.jpg" width="200" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
       </a>
       <p><a href="https://docs.google.com/document/d/1jbeXDu222RakOfukz-txorC6X8JEGipzEZ5wkPgFPtM/edit?usp=sharing" target="_blank">8-bit Shift Register Documentation</a></p>
     </div>
