@@ -1,4 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Colombia+Guides&weight=500&pause=1000&color=8B82F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=hey+there%2C+my+name+is+Yasmein+;I+major+in+Electrical+engineering+with+a+minor+in+cs)](https://git.io/typing-svg)
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- Typing Animation -->
+  <div>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Colombia+Guides&weight=500&pause=1000&color=8B82F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=hey+there%2C+my+name+is+Yasmein+;I+major+in+Electrical+engineering+with+a+minor+in+cs)](https://git.io/typing-svg)
+  </div>
+
+  <!-- Profile Image -->
+  <div>
+    <img src="https://raw.githubusercontent.com/your-username/your-repository-name/branch-name/profile/profile.jpeg" alt="Profile Picture" style="width: 150px; height: auto; border-radius: 10px;">
+  </div>
+</div>
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
   <div style="background-color: #E5D9F4; padding: 10px; border-radius: 5px; flex: 1;">
