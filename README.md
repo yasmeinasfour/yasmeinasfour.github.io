@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Australia+Victoria+Guides&weight=500&pause=1000&color=8B82F7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Yasmein++%3A))](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Colombia+Guides&weight=500&pause=1000&color=8B82F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=hey+there%2C+my+name+is+Yasmein+;I+major+in+Electrical+engineering+with+a+minor+in+cs)](https://git.io/typing-svg)
 <div style="background-color: #E5D9F4; padding: 10px; border-radius: 5px;">
 # **Education**
 **George Washington University**, Washington, D.C.  
