@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Australia+Victoria+Guides&weight=500&pause=1000&color=8B82F7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Yasmein++%3A))](https://git.io/typing-svg)
 
+<div style="background-color: lightblue; padding: 10px; border-radius: 5px;">
 # **Education**
 **George Washington University**, Washington, D.C.  
 **Bachelor of Science in Electrical Engineering, Minor in Computer Science**  
@@ -7,7 +8,7 @@
 **Study Abroad:** University College Dublin (Jan 2024 - May 2024)  
 **Relevant Coursework:** Algorithms, Circuit Theory, C Programming, Design Logic Systems, Digital Signal Processing  
 **Projects:** iPad docking station, solar portable charger, Arduino-controlled racecar, 8-bit shift register  
-
+</div>
 ---
 
 # **Professional Experience**
