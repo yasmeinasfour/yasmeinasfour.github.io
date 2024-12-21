@@ -25,7 +25,7 @@
       Yasmein Asfour is a sophomore from Chicago, Illinois. She is Palestinian-American and pursuing a major in Computer Engineering. She is interested in joining organizations such as the Society of Women Engineers, Engineers Without Borders, Institute of Electrical and Electronic Engineering, and the Muslim Student Association. Having traveled and lived abroad for several years, Yasmein looks forward to participating in the Study Abroad program in either Korea or London. She is enthusiastic about living in DC and hopes to learn more about the historical significance it holds.
     </p>
 
-   <img src="me.jpeg" width="200" style="border: 5px solid #C8B8F2; border-radius: 15px; margin-left: 20px;" />
+   <img src="profesh.jpeg" width="200" style="border: 5px solid #C8B8F2; border-radius: 15px; margin-left: 20px;" />
   </div>
 </div>
 
