@@ -1,92 +1,46 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Colombia+Guides&weight=500&pause=1000&color=8B82F7&vCenter=true&multiline=true&repeat=false&width=435&lines=hey+there%2C+my+name+is+Yasmein+)](https://git.io/typing-svg)
-
-  <div>
-    <img src="https://raw.githubusercontent.com/yasmeiasfour/yasmeinasfour.github.io/profile.jpeg" alt="Profile Picture" style="width: 150px; height: auto; border-radius: 10px;">
+<div style="font-family: Arial, sans-serif; color: #6E5494; text-align: center; margin: 20px 0;">
+  <h1 style="font-size: 36px; font-weight: bold; margin-bottom: 10px;">✨ Welcome to Yasmein's Portfolio ✨</h1>
+  <p style="font-size: 18px; line-height: 1.6; color: #8B82F7;">
+    Hi there! I'm Yasmein Asfour, an Electrical Engineering major with a minor in Computer Science. Check out my projects and experience below!
+  </p>
 </div>
 
-<div style="display: flex; gap: 10px; margin-bottom: 20px;">
-  <div style="background-color: #E5D9F4; padding: 10px; border-radius: 5px; flex: 1;">
-    <strong>Education</strong><br>
-    George Washington University, Washington, D.C.<br>
-    Bachelor of Science in Electrical Engineering, Minor in Computer Science<br>
-    <strong>Honors:</strong> James Clark Scholarship, University and Alumni Award<br>
-    <strong>Study Abroad:</strong> University College Dublin (Jan 2024 - May 2024)<br>
-  </div>
-  <div style="background-color: #E5D9F4; padding: 10px; border-radius: 5px; flex: 1;">
-    <strong>Relevant Coursework</strong><br>
-    Algorithms, Circuit Theory, C Programming, Design Logic Systems, Digital Signal Processing<br>
-    <strong>Projects:</strong> iPad docking station, solar portable charger, Arduino-controlled racecar, 8-bit shift register<br>
+<!-- New Arrivals Section -->
+<div style="background-color: #F3E9FF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  <h2 style="font-size: 28px; color: #6E5494;">New Arrivals</h2>
+  <p style="font-size: 16px; color: #6E5494;">Explore my latest projects and updates.</p>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="#projects" style="background-color: #8B82F7; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Projects</a>
+    <a href="#experience" style="background-color: #D3C4FF; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Experience</a>
+    <a href="#skills" style="background-color: #AA9CED; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Skills</a>
   </div>
 </div>
 
----
-
-<div style="background-color: #B89DC8; padding: 10px; border-radius: 5px; margin-bottom: 20px;">
-  <h2>Professional Experience</h2>
-  <strong>Zain Group, Data Science and AI Intern</strong>  
-  <em>Jul 2024 – Aug 2024</em>  
-  <ul>
-    <li>Utilized Python, Tableau, and APIs to clean, organize, and visually present large datasets to enhance analytical capabilities within the telecommunications sector.</li>
-    <li>Analyzed customer behavior to improve customer retention and overall business success.</li>
-    <li>Performed exploratory data analysis and applied machine learning to build a churn prediction model.</li>
-    <li>Presented data analysis findings to the marketing team weekly.</li>
-  </ul>
-
-  <strong>Sitech, Python Intern</strong>  
-  <em>Jul 2023 – Oct 2023</em>  
-  <ul>
-    <li>Led frontend development for "The College Cook" web app using JavaScript, HTML5, and CSS3.</li>
-    <li>Utilized Python and Django for backend development.</li>
-    <li>Encouraged collaborative coding amongst teammates for efficient project completion.</li>
-  </ul>
-
-  <strong>Omrania and Associates Engineering Company, Intern</strong>  
-  <em>May 2021 – Aug 2021</em>  
-  <ul>
-    <li>Collaborated with engineers to learn project planning, design, and implementation.</li>
-    <li>Delivered a comprehensive project status presentation for an ongoing project.</li>
+<!-- Projects Section -->
+<div id="projects" style="background-color: #E5D9F4; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  <h2 style="font-size: 28px; color: #6E5494;">🚀 My Projects</h2>
+  <ul style="list-style: none; padding: 0; text-align: left; font-size: 16px;">
+    <li>🌟 iPad Docking Station</li>
+    <li>🌟 Solar Portable Charger</li>
+    <li>🌟 Arduino-Controlled Racecar</li>
+    <li>🌟 8-bit Shift Register</li>
   </ul>
 </div>
 
----
-
-<div style="background-color: #AA9CED; padding: 10px; border-radius: 5px; margin-bottom: 20px;">
-  <h2>Leadership Experience</h2>
-  <strong>GWU Rocket Team, Avionics Lead</strong>  
-  <em>Aug 2023 – Present</em>  
-  <ul>
-    <li>Lead weekly meetings with the recovery team.</li>
-    <li>Build an SRAD flight computer for the 2025 America Spaceport Cup.</li>
-  </ul>
-
-  <strong>GWU Clark Philanthropy Committee, Board Member</strong>  
-  <em>Aug 2023 – Present</em>  
-  <ul>
-    <li>Research and organize meaningful volunteering opportunities for Clark Scholars.</li>
-  </ul>
-
-  <strong>GWU Institute of Electrical and Electronics Engineering, Junior Representative</strong>  
-  <em>Sep 2022 – Present</em>  
-  <ul>
-    <li>Organize events, attend meetings, and advertise IEEE to incoming freshmen and sophomores.</li>
-    <li>Research industry literature to engage with the latest innovations.</li>
-  </ul>
-
-  <strong>GWU Electrical Engineering Social Committee, Event Coordinator</strong>  
-  <em>Sep 2024 – Present</em>  
-  <ul>
-    <li>Organized engineering-themed social initiatives, blending engineering concepts with community engagement.</li>
+<!-- Experience Section -->
+<div id="experience" style="background-color: #D9B3FF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  <h2 style="font-size: 28px; color: #6E5494;">💼 Professional Experience</h2>
+  <ul style="list-style: none; padding: 0; text-align: left; font-size: 16px;">
+    <li><strong>Data Science & AI Intern (Zain Group)</strong> – Jul 2024 - Aug 2024</li>
+    <li><strong>Python Intern (Sitech)</strong> – Jul 2023 - Oct 2023</li>
+    <li><strong>Engineering Intern (Omrania & Associates)</strong> – May 2021 - Aug 2021</li>
   </ul>
 </div>
 
----
-
-<div style="background-color: #84639C; padding: 10px; border-radius: 5px;">
-  <h2>Skills</h2>
-  <ul>
-    <li><strong>Languages:</strong> English (native), Arabic</li>
-    <li><strong>Coding Languages:</strong> Python, C, Java, JavaScript, HTML, CSS</li>
-    <li><strong>Technical Proficiency:</strong> Soldering, Arduino, CAD (Onshape), Multisim, Raspberry Pi, LT SPICE, Waveforms, MATLAB, S-EDIT, Crimping, PCB assembly</li>
-    <li><strong>Graphic Design Tools:</strong> Photoshop, Canva, PicsArt</li>
-  </ul>
+<!-- Skills Section -->
+<div id="skills" style="background-color: #CBA9E8; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  <h2 style="font-size: 28px; color: #6E5494;">🛠 Skills</h2>
+  <p style="font-size: 16px; color: #6E5494;">
+    Python, C, Java, JavaScript, HTML, CSS, Soldering, Arduino, CAD (Onshape), MATLAB, PCB Assembly
+  </p>
 </div>
