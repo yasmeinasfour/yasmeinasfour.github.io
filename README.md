@@ -7,7 +7,8 @@
 
 <p align="left">
 
-  <img src="https://github.com/yasmeinasfour/yasmeinasfour.github.io/blob/main/laptopgif.gif" width="200"/>
+  <img src="laptopgif.gif" width="200" />
+
 
 </p>
 
