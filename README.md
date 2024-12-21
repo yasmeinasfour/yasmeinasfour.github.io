@@ -1,5 +1,3 @@
-
-
 <div style="font-family: Arial, sans-serif; color: #6E5494; text-align: center; margin: 20px 0;">
   <h1 style="font-size: 36px; font-weight: bold; margin-bottom: 10px;">✨ Welcome to Yasmein's Portfolio ✨</h1>
 </div>
@@ -29,27 +27,34 @@
   </div>
 </div>
 
-
-
 <!-- Projects Section -->
 <div id="projects" style="background-color: #E5D9F4; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="font-size: 28px; color: #6E5494;">🚀 My Projects</h2>
   <ul style="list-style: none; padding: 0; text-align: left; font-size: 16px;">
-    <li>🌟 iPad Docking Station</li>
-    <p align="center">
-  <img src="ipoddockingstation.jpg" width="200" />
-</p>
+    <li>
+      <p>🌟 iPad Docking Station</p>
+      <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+        <a href="https://youtube.com/shorts/sxVqf03esyg?feature=share" target="_blank">
+          <img src="ipoddockingstation.jpg" width="200" />
+        </a>
+      </div>
+    </li>
 
-  <li>🌟 SRAD flight computer </li>
-  <p align="center">
-  <img src="laptopgif.jpg" width="200" />
-</p>
+    <li>
+      <p>🌟 SRAD Flight Computer</p>
+      <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+        <img src="laptopgif.jpg" width="200" />
+      </div>
+    </li>
 
-   <li>🌟 8-bit Shift Register</li>
-   <p align="center">
-  <img src="8bitshiftregister.jpg" width="200" />
-</p>
-
+    <li>
+      <p>🌟 8-bit Shift Register</p>
+      <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+        <a href="https://youtu.be/f9jQME5JrBg" target="_blank">
+          <img src="8bitshiftregister.jpg" width="200" />
+        </a>
+      </div>
+    </li>
   </ul>
 </div>
 
