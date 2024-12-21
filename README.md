@@ -1,11 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Colombia+Guides&weight=500&pause=1000&color=8B82F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=hey+there%2C+my+name+is+Yasmein+;I+major+in+Electrical+engineering+with+a+minor+in+cs)](https://git.io/typing-svg)
+
+
 <div style="background-color: #E5D9F4; padding: 10px; border-radius: 5px;">
-# **Education**
-**George Washington University**, Washington, D.C.  
-**Bachelor of Science in Electrical Engineering, Minor in Computer Science**  
-**Honors:** James Clark Scholarship, University and Alumni Award  
-**Study Abroad:** University College Dublin (Jan 2024 - May 2024)  
-**Relevant Coursework:** Algorithms, Circuit Theory, C Programming, Design Logic Systems, Digital Signal Processing  
+Education
+George Washington University, Washington, D.C.  
+Bachelor of Science in Electrical Engineering, Minor in Computer Science**  
+Honors: James Clark Scholarship, University and Alumni Award  
+Study Abroad: University College Dublin (Jan 2024 - May 2024)  
+</div>
+<div style="background-color: #E5D9F4; padding: 10px; border-radius: 5px;">
+Relevant Coursework:Algorithms, Circuit Theory, C Programming, Design Logic Systems, Digital Signal Processing  
 **Projects:** iPad docking station, solar portable charger, Arduino-controlled racecar, 8-bit shift register  
 </div>
 ---
