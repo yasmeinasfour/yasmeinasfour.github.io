@@ -2,7 +2,6 @@
 
   <div>
     <img src="https://raw.githubusercontent.com/yasmeiasfour/yasmeinasfour.github.io/profile.jpeg" alt="Profile Picture" style="width: 150px; height: auto; border-radius: 10px;">
-  </div>
 </div>
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
