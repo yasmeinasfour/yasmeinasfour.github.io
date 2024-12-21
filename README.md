@@ -1,7 +1,8 @@
 <div style="font-family: Arial, sans-serif; color: #6E5494; text-align: center; margin: 20px 0;">
   <h1 style="font-size: 36px; font-weight: bold; margin-bottom: 10px;">✨ Welcome to Yasmein's Portfolio ✨</h1>
   <p style="font-size: 18px; line-height: 1.6; color: #8B82F7;">
-    Hi there! I'm Yasmein Asfour, an Electrical Engineering major with a minor in Computer Science. Check out my projects and experience below!
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Colombia+Guides&weight=500&duration=4000&pause=250&color=8B82F7&vCenter=true&multiline=true&repeat=false&width=800&height=200&lines=+Hi+there!+I'm+Yasmein+Asfour;+an+Electrical+Engineering+major+with+a+minor+in+Computer+Science;Check+out+my+projects+and+experience+below!)](https://git.io/typing-svg)
+    
   </p>
 </div>
 
