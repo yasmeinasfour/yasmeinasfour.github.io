@@ -1,3 +1,4 @@
+
 <div style="font-family: Arial, sans-serif; color: #6E5494; text-align: center; margin: 20px 0;">
   <h1 style="font-size: 36px; font-weight: bold; margin-bottom: 10px;">✨ Welcome to Yasmein's Portfolio ✨</h1>
 </div>
@@ -40,14 +41,14 @@
       </div>
     </li>
 
-    <li>
+   <li>
       <p>🌟 SRAD Flight Computer</p>
       <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
         <img src="laptopgif.jpg" width="200" />
       </div>
     </li>
 
-    <li>
+   <li>
       <p>🌟 8-bit Shift Register</p>
       <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
         <a href="https://youtu.be/f9jQME5JrBg" target="_blank">
