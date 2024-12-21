@@ -36,9 +36,20 @@
   <h2 style="font-size: 28px; color: #6E5494;">🚀 My Projects</h2>
   <ul style="list-style: none; padding: 0; text-align: left; font-size: 16px;">
     <li>🌟 iPad Docking Station</li>
-    <li>🌟 Solar Portable Charger</li>
-    <li>🌟 Arduino-Controlled Racecar</li>
-    <li>🌟 8-bit Shift Register</li>
+    <p align="center">
+  <img src="ipoddockingstation.jpg" width="200" />
+</p>
+
+  <li>🌟 SRAD flight computer </li>
+  <p align="center">
+  <img src="laptopgif.jpg" width="200" />
+</p>
+
+   <li>🌟 8-bit Shift Register</li>
+   <p align="center">
+  <img src="8bitshiftregister.jpg" width="200" />
+</p>
+
   </ul>
 </div>
 
