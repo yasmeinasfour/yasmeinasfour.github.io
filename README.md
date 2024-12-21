@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="header.jpeg" width="200" />
-</p>
+
 
 <div style="font-family: Arial, sans-serif; color: #6E5494; text-align: center; margin: 20px 0;">
   <h1 style="font-size: 36px; font-weight: bold; margin-bottom: 10px;">✨ Welcome to Yasmein's Portfolio ✨</h1>
