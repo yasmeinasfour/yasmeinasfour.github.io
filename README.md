@@ -2,22 +2,23 @@
   <h1 style="font-size: 36px; font-weight: bold; margin-bottom: 10px;">✨ Welcome to Yasmein's Portfolio ✨</h1>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=2000&pause=250&color=8B82F7&center=true&multiline=true&repeat=false&width=800&height=100&lines=+Hi+there!+I'm+Yasmein+Asfour;+an+Electrical+Engineering+major+with+a+minor+in+Computer+Science;Check+out+my+projects+and+experience+below!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=2000&pause=250&color=8B82F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=+Hi+there!+I'm+Yasmein+Asfour;+an+Electrical+Engineering+major+with+a+minor+in+Computer+Science;Check+out+my+projects+and+experience+below!" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="laptopgif.gif" width="200" />
 </p>
 
-
-
-<div style="background-color: #F3E9FF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h2 style="font-size: 28px; color: #6E5494;">New Arrivals</h2>
-  <p style="font-size: 16px; color: #6E5494;">Explore my latest projects and updates.</p>
-  <div style="display: flex; justify-content: center; gap: 10px;">
+<div style="background-color: #C9D2FD; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
     <a href="#projects" style="background-color: #8B82F7; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Projects</a>
     <a href="#experience" style="background-color: #D3C4FF; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Experience</a>
     <a href="#skills" style="background-color: #AA9CED; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Skills</a>
   </div>
+</div>
+
+<div style="background-color: #F3E9FF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  <h2 style="font-size: 28px; color: #6E5494;">New Arrivals</h2>
+  <p style="font-size: 16px; color: #6E5494;">Explore my latest projects and updates.</p>
 </div>
 
 <!-- Projects Section -->
