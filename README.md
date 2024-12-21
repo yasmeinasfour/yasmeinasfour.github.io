@@ -69,8 +69,15 @@
 
 <!-- Skills Section -->
 <div id="skills" style="background-color: #CBA9E8; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h2 style="font-size: 28px; color: #6E5494;">🛠 Skills</h2>
+  <h2 style="font-size: 28px; color: #6E5494;">🛠 Hobbies</h2>
   <p style="font-size: 16px; color: #6E5494;">
-    Python, C, Java, JavaScript, HTML, CSS, Soldering, Arduino, CAD (Onshape), MATLAB, PCB Assembly
+    I am a dedicated rocket science enthusiast and currently lead the avionics team for GW Rocket. I am overseeing a project to develop an SRAD flight computer, where I established five specialized teams to handle various aspects of the design and implementation. My role involves creating the project outline, delegating tasks, ensuring progress stays on schedule, and providing technical guidance. I also mentor sophomores and freshmen, teaching them coding concepts, assisting with debugging, and ensuring they have a strong understanding of the work before contributing to the project.
+    <p align="center">
+  <img src="laptopgif.gif" width="200" />
+</p><p align="center">
+  <img src="laptopgif.gif" width="200" />
+</p><p align="center">
+  <img src="laptopgif.gif" width="200" />
+</p>
   </p>
 </div>
