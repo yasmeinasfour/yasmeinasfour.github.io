@@ -2,7 +2,15 @@
   <h1 style="font-size: 36px; font-weight: bold; margin-bottom: 10px;">✨ Welcome to Yasmein's Portfolio ✨</h1>
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=2000&pause=250&color=8B82F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=+Hi+there!+I'm+Yasmein+Asfour;+an+Electrical+Engineering+major+with+a+minor+in+Computer+Science;Check+out+my+projects+and+experience+below!" alt="Typing SVG" /></a>
-<!-- New Arrivals Section -->
+
+<p align="left">
+
+  <img src="https://github.com/yasmeinasfour/yasmeinasfour.github.io/laptopgif.gif" width="200"/>
+
+</p>
+
+
+
 <div style="background-color: #F3E9FF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="font-size: 28px; color: #6E5494;">New Arrivals</h2>
   <p style="font-size: 16px; color: #6E5494;">Explore my latest projects and updates.</p>
