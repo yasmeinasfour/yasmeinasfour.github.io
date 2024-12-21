@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Australia+Victoria+Guides&weight=500&pause=1000&color=8B82F7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Yasmein++%3A))](https://git.io/typing-svg)
 
-<div style="background-color: #BAA0DD; padding: 10px; border-radius: 5px;">
+<div style="background-color: #E5D9F4; padding: 10px; border-radius: 5px;">
 # **Education**
 **George Washington University**, Washington, D.C.  
 **Bachelor of Science in Electrical Engineering, Minor in Computer Science**  
@@ -10,7 +10,7 @@
 **Projects:** iPad docking station, solar portable charger, Arduino-controlled racecar, 8-bit shift register  
 </div>
 ---
-<div style="background-color: #BBA0DB; padding: 10px; border-radius: 5px;">
+<div style="background-color: #B89DC8; padding: 10px; border-radius: 5px;">
 # **Professional Experience**
 **Zain Group**, Data Science and AI Intern  
 *Jul 2024 – Aug 2024*  
@@ -31,7 +31,7 @@
 - Delivered a comprehensive project status presentation for an ongoing project.  
 </div>
 ---
-<div style="background-color: #7C5194; padding: 10px; border-radius: 5px;">
+<div style="background-color: #AA9CED; padding: 10px; border-radius: 5px;">
 # **Leadership Experience**
 **GWU Rocket Team**, Avionics Lead  
 *Aug 2023 – Present*  
@@ -52,7 +52,7 @@
 - Organized engineering-themed social initiatives, blending engineering concepts with community engagement.  
 </div>
 ---
-<div style="background-color: #653A82; padding: 10px; border-radius: 5px;">
+<div style="background-color: #DEBFF1; padding: 10px; border-radius: 5px;">
 # **Skills**
 - **Languages:** English (native), Arabic  
 - **Coding Languages:** Python, C, Java, JavaScript, HTML, CSS  
