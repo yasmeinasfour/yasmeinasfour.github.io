@@ -2,8 +2,7 @@
   <h1 style="font-size: 36px; font-weight: bold; margin-bottom: 10px;">✨ Welcome to Yasmein's Portfolio ✨</h1>
 </div>
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=2000&pause=250&color=8B82F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=+Hi+there!+I'm+Yasmein+Asfour;+an+Electrical+Engineering+major+with+a+minor+in+Computer+Science;Check+out+my+projects+and+experience+below!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=2000&pause=250&color=8B82F7&center=true&multiline=true&repeat=false&width=800&height=100&lines=+Hi+there!+I'm+Yasmein+Asfour;+an+Electrical+Engineering+major+with+a+minor+in+Computer+Science;Check+out+my+projects+and+experience+below!" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="laptopgif.gif" width="200" />
