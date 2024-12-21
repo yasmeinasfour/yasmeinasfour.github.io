@@ -74,9 +74,9 @@
     I am a dedicated rocket science enthusiast and currently lead the avionics team for GW Rocket. I am overseeing a project to develop an SRAD flight computer, where I established five specialized teams to handle various aspects of the design and implementation. My role involves creating the project outline, delegating tasks, ensuring progress stays on schedule, and providing technical guidance. I also mentor sophomores and freshmen, teaching them coding concepts, assisting with debugging, and ensuring they have a strong understanding of the work before contributing to the project.
   </p>
     
-<img src="recoveryteam.jpeg" alt="Recovery Team" style="border-radius: 10px; width: 200px; margin: 10px;" />
-<img src="recoverylead.jpeg" alt="Recovery Lead" style="border-radius: 10px; width: 200px; margin: 10px;" />
 
+<img src="medoingrecovery.jpeg"/>
+<img src="myteam.jpeg"/>
   <img src="spaceportcup.jpeg"/>
 
 </div>
