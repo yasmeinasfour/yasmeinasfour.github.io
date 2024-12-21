@@ -51,7 +51,7 @@
 - Organized engineering-themed social initiatives, blending engineering concepts with community engagement.  
 </div>
 ---
-<div style="background-color: #DEBFF1; padding: 10px; border-radius: 5px;">
+<div style="background-color: #84639C; padding: 10px; border-radius: 5px;">
 # **Skills**
 - **Languages:** English (native), Arabic  
 - **Coding Languages:** Python, C, Java, JavaScript, HTML, CSS  
