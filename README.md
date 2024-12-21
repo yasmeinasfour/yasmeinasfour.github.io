@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Australia+Victoria+Guides&weight=500&pause=1000&color=8B82F7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Yasmein++%3A))](https://git.io/typing-svg)
+
 # **Education**
 **George Washington University**, Washington, D.C.  
 **Bachelor of Science in Electrical Engineering, Minor in Computer Science**  
