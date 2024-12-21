@@ -17,7 +17,7 @@
 </div>
 
 <div style="background-color: #F3E9FF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h2 style="font-size: 28px; color: #6E5494;">New Arrivals</h2>
+  <h2 style="font-size: 28px; color: #6E5494;">About me</h2>
   <p style="font-size: 16px; color: #6E5494;">Explore my latest projects and updates.</p>
 </div>
 
