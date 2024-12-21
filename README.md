@@ -30,34 +30,30 @@
 <!-- Projects Section -->
 <div id="projects" style="background-color: #E5D9F4; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="font-size: 28px; color: #6E5494;">🚀 My Projects</h2>
-  <ul style="list-style: none; padding: 0; text-align: left; font-size: 16px;">
-    <li>
-      <p>🌟 iPad Docking Station</p>
-      <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-        <a href="https://youtube.com/shorts/sxVqf03esyg?feature=share" target="_blank" style="border: 2px solid #6E5494; border-radius: 5px; transition: transform 0.3s;">
-          <img src="ipoddockingstation.jpg" width="200" style="border-radius: 5px;" />
-        </a>
-      </div>
-    </li>
+  <div style="display: flex; justify-content: center; gap: 20px;">
 
-   <li>
-      <p>🌟 SRAD Flight Computer</p>
-      <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-        <a href="#" style="border: 2px solid #6E5494; border-radius: 5px; transition: transform 0.3s;">
-          <img src="laptopgif.jpg" width="200" style="border-radius: 5px;" />
-        </a>
-      </div>
-    </li>
+   <div style="text-align: center;">
+      <a href="https://youtube.com/shorts/sxVqf03esyg?feature=share" target="_blank">
+        <img src="ipoddockingstation.jpg" width="200" style="border-radius: 10px;" />
+      </a>
+      <p><a href="https://docs.google.com/document/d/1XPVfb4n8_hlz0ms9uymJM3RGUcBjYHxe/edit?usp=sharing&ouid=104851320721998070053&rtpof=true&sd=true" target="_blank">iPod Docking Station Documentation</a></p>
+    </div>
 
-   <li>
-      <p>🌟 8-bit Shift Register</p>
-      <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-        <a href="https://youtu.be/f9jQME5JrBg" target="_blank" style="border: 2px solid #6E5494; border-radius: 5px; transition: transform 0.3s;">
-          <img src="8bitshiftregister.jpg" width="200" style="border-radius: 5px;" />
-        </a>
-      </div>
-    </li>
-  </ul>
+  <div style="text-align: center;">
+      <a href="#" target="_blank">
+        <img src="laptopgif.jpg" width="200" style="border-radius: 10px;" />
+      </a>
+      <p><a href="https://docs.google.com/document/d/1NXahZG1kMCwJgoy31Wl9p9HfCBf4LhcvIHkZc0R1yKk/edit?usp=sharing" target="_blank">SRAD Flight Computer Documentation</a></p>
+    </div>
+
+  <div style="text-align: center;">
+      <a href="https://youtu.be/f9jQME5JrBg" target="_blank">
+        <img src="8bitshiftregister.jpg" width="200" style="border-radius: 10px;" />
+      </a>
+      <p><a href="https://docs.google.com/document/d/1jbeXDu222RakOfukz-txorC6X8JEGipzEZ5wkPgFPtM/edit?usp=sharing" target="_blank">8-bit Shift Register Documentation</a></p>
+    </div>
+
+  </div>
 </div>
 
 <!-- Experience Section -->
@@ -77,9 +73,3 @@
     Python, C, Java, JavaScript, HTML, CSS, Soldering, Arduino, CAD (Onshape), MATLAB, PCB Assembly
   </p>
 </div>
-
-<style>
-a:hover {
-  transform: scale(1.1);
-}
-</style>
