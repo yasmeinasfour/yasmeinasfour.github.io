@@ -61,10 +61,8 @@
     SRAD Flight Computer Documentation
   </a>
 </p>
-
-
-
   </div>
+</div>
 </div>
 </div>
 <!-- Experience Section -->
