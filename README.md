@@ -66,16 +66,37 @@
     <h1><strong>Data Science & AI Intern (Zain Group)</strong> – Jul 2024 - Aug 2024</h1>
       <img src="zainlogo.jpeg"/>
       <img src="workingatzain.jpeg"/>
+      <img scr="dashboardzain.jpeg"/>
+<p>
+●	Utilized Python, Tableau and APIs to clean, organize, and visually present large datasets to enhance analytical capabilities within the telecommunications sector.
+●	Analyzed customer behavior to improve customer retention and overall business success.
+●	Performed exploratory data analysis and applied machine learning to build a churn prediction model.
+●	Presented data analysis findings to marketing team weekly.
+![image](https://github.com/user-attachments/assets/15e2587c-ce96-47d0-b6c2-a42ac818f4f8)
+
+</p>
   </div> 
  <div style="text-align: center;">
   <h1><strong>Python Intern (Sitech)</strong> – Jul 2023 - Oct 2023</h1>
     <img src="workspacesitech.jpeg"/>
     <img src="collegecook.jpeg"/>
+ <p>
+   ●	Led frontend development for "The College Cook" web app using JavaScript, HTML5, and CSS3.
+●	Utilized Python and Django for backend development. 
+●	Encouraged collaborative coding amongst teammates for efficient project completion.
+![image](https://github.com/user-attachments/assets/fd0cf715-1f71-4357-8bb1-58277f972606)
+ </p>
   </div> 
   <div style="text-align: center;">
    <h1><strong>Engineering Intern (Omrania & Associates)</strong> – May 2021 - Aug 2021</h1>
-    <img src="medoingrecovery.jpeg"/>
-    <img src="medoingrecovery.jpeg"/>
+    <img src="kafd.jpeg"/>
+    <img src="omranialogo.jpeg"/>
+  <p>
+    ●	Collaborated with engineers to learn project planning, design, and implementation. 
+●	Delivered a comprehensive project status presentation for an ongoing project.
+![image](https://github.com/user-attachments/assets/ce5373cf-e51f-4013-94c3-55c006d9c117)
+
+  </p>
   </div> 
 </div>
 
