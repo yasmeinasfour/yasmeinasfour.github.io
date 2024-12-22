@@ -67,49 +67,42 @@
       <img src="zainlogo.jpeg"/>
       <img src="workingatzain.jpeg"/>
       <img scr="dashboardzain.jpeg"/>
-<p>
-●	Utilized Python, Tableau and APIs to clean, organize, and visually present large datasets to enhance analytical capabilities within the telecommunications sector.
-●	Analyzed customer behavior to improve customer retention and overall business success.
-●	Performed exploratory data analysis and applied machine learning to build a churn prediction model.
-●	Presented data analysis findings to marketing team weekly.
-![image](https://github.com/user-attachments/assets/15e2587c-ce96-47d0-b6c2-a42ac818f4f8)
-
-</p>
+  <ul style="font-size: 16px; color: #6E5494;">
+      <li>Utilized Python, Tableau, and APIs to clean, organize, and visually present large datasets.</li>
+      <li>Built a churn prediction model using machine learning techniques.</li>
+      <li>Presented weekly data analysis findings to the marketing team.</li>
+    </ul>
   </div> 
+  
  <div style="text-align: center;">
   <h1><strong>Python Intern (Sitech)</strong> – Jul 2023 - Oct 2023</h1>
     <img src="workspacesitech.jpeg"/>
     <img src="collegecook.jpeg"/>
- <p>
-   ●	Led frontend development for "The College Cook" web app using JavaScript, HTML5, and CSS3.
-●	Utilized Python and Django for backend development. 
-●	Encouraged collaborative coding amongst teammates for efficient project completion.
-![image](https://github.com/user-attachments/assets/fd0cf715-1f71-4357-8bb1-58277f972606)
- </p>
+ <ul style="font-size: 16px; color: #6E5494;">
+      <li>Led frontend development for "The College Cook" web app using JavaScript, HTML5, and CSS3.</li>
+      <li>Collaborated on backend development using Python and Django.</li>
+      <li>Encouraged collaborative coding among teammates for efficient project completion.</li>
+    </ul>
   </div> 
   <div style="text-align: center;">
    <h1><strong>Engineering Intern (Omrania & Associates)</strong> – May 2021 - Aug 2021</h1>
     <img src="kafd.jpeg"/>
     <img src="omranialogo.jpeg"/>
-  <p>
-    ●	Collaborated with engineers to learn project planning, design, and implementation. 
-●	Delivered a comprehensive project status presentation for an ongoing project.
-![image](https://github.com/user-attachments/assets/ce5373cf-e51f-4013-94c3-55c006d9c117)
-
-  </p>
+ <ul style="font-size: 16px; color: #6E5494;">
+      <li>Collaborated with engineers on project planning, design, and implementation.</li>
+      <li>Delivered a comprehensive project status presentation for an ongoing initiative.</li>
+    </ul>
   </div> 
 </div>
-
+</div>
 <!-- Skills Section -->
 <div id="skills" style="background-color: #CBA9E8; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="font-size: 28px; color: #6E5494;">🛠 Hobbies</h2>
   <p style="font-size: 16px; color: #6E5494;">
     I am a dedicated rocket science enthusiast and currently lead the avionics team for GW Rocket. I am overseeing a project to develop an SRAD flight computer, where I established five specialized teams to handle various aspects of the design and implementation. My role involves creating the project outline, delegating tasks, ensuring progress stays on schedule, and providing technical guidance. I also mentor sophomores and freshmen, teaching them coding concepts, assisting with debugging, and ensuring they have a strong understanding of the work before contributing to the project.
   </p>
-    
-
 <img src="medoingrecovery.jpeg"/>
 <img src="myteam.jpeg"/>
-  <img src="spaceportcup.jpeg"/>
+<img src="spaceportcup.jpeg"/>
 
 </div>
