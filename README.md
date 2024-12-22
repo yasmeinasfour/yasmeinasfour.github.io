@@ -66,7 +66,7 @@
   <div style="text-align: center; flex: 1; min-width: 300px;">
       <h3><strong>Data Science & AI Intern (Zain Group)</strong></h3>
       <p>Jul 2024 - Aug 2024</p>
-      <img src="zainlogo.jpeg" alt="Zain Logo" style="width: 100px; margin-bottom: 10px;" />
+      <img src="zainlogo.jpeg" alt="Zain Logo" style="width: 100%; margin-bottom: 10px;" />
       <img src="workingatzain.jpeg" alt="Working at Zain" style="width: 100%; margin-bottom: 10px;" />
       <img src="dashboardzain.jpeg" alt="Dashboard at Zain" style="width: 100%; margin-bottom: 10px;" />
       <ul style="font-size: 16px; color: #6E5494; text-align: left; margin: 0 auto; max-width: 90%;">
@@ -93,7 +93,7 @@
       <h3><strong>Engineering Intern (Omrania & Associates)</strong></h3>
       <p>May 2021 - Aug 2021</p>
       <img src="thekafd.jpeg" alt="King Abdullah Financial District" style="width: 100%; margin-bottom: 10px;" />
-      <img src="omranialogo.jpeg" alt="Omrania Logo" style="width: 100px; margin-bottom: 10px;" />
+      <img src="omranialogo.jpeg" alt="Omrania Logo" style="width: 100%; margin-bottom: 10px;" />
       <ul style="font-size: 16px; color: #6E5494; text-align: left; margin: 0 auto; max-width: 90%;">
         <li>Collaborated with engineers on project planning, design, and implementation.</li>
         <li>Delivered a comprehensive project status presentation for an ongoing initiative.</li>
