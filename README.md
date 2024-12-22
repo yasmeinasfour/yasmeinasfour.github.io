@@ -64,7 +64,7 @@
 
   <div style="text-align: center;">
     <h1><strong>Data Science & AI Intern (Zain Group)</strong> – Jul 2024 - Aug 2024</h1>
-      <img src="zaininternship.jpeg"/>
+      <img src="zainlogo.jpeg"/>
       <img src="workingatzain.jpeg"/>
   </div> 
  <div style="text-align: center;">
