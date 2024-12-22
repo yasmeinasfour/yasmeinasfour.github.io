@@ -9,7 +9,7 @@
 </p>
 
 <div style="background-color: #C9D2FD; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
     <a href="#projects" style="background-color: #8B82F7; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Projects</a>
     <a href="#experience" style="background-color: #D3C4FF; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Experience</a>
     <a href="#skills" style="background-color: #AA9CED; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Skills</a>
@@ -22,7 +22,8 @@
     <p style="font-size: 16px; color: #6E5494; flex: 1;">
       Yasmein Asfour is a sophomore from Chicago, Illinois. She is Palestinian-American and pursuing a major in Computer Engineering. She is interested in joining organizations such as the Society of Women Engineers, Engineers Without Borders, Institute of Electrical and Electronic Engineering, and the Muslim Student Association. Having traveled and lived abroad for several years, Yasmein looks forward to participating in the Study Abroad program in either Korea or London. She is enthusiastic about living in DC and hopes to learn more about the historical significance it holds.
     </p>
-    <img src="profesh.jpeg" width="200" style="border: 5px solid #C8B8F2; border-radius: 15px; margin-left: 20px;" />
+
+   <img src="profesh.jpeg" width="200" style="border: 5px solid #C8B8F2; border-radius: 15px; margin-left: 20px;" />
   </div>
 </div>
 
@@ -30,54 +31,85 @@
 <div id="projects" style="background-color: #E5D9F4; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="font-size: 28px; color: #6E5494;">🚀 My Projects</h2>
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <!-- Individual Project Cards -->
-    <div style="text-align: center;">
+
+  <div style="text-align: center;">
       <a href="https://youtube.com/shorts/sxVqf03esyg?feature=share" target="_blank">
         <img src="ipoddockingstation.jpg" width="200" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
       </a>
-      <p><a href="https://docs.google.com/document/d/1XPVfb4n8_hlz0ms9uymJM3RGUcBjYHxe/edit?usp=sharing" target="_blank">iPod Docking Station Documentation</a></p>
+      <p><a href="https://docs.google.com/document/d/1XPVfb4n8_hlz0ms9uymJM3RGUcBjYHxe/edit?usp=sharing&ouid=104851320721998070053&rtpof=true&sd=true" target="_blank">iPod Docking Station Documentation</a></p>
     </div>
-    <!-- Add more projects similarly -->
+
+  <div style="text-align: center;">
+      <a href="https://youtu.be/f9jQME5JrBg" target="_blank">
+        <img src="8bitshiftregister.jpg" width="200" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <p><a href="https://docs.google.com/document/d/1jbeXDu222RakOfukz-txorC6X8JEGipzEZ5wkPgFPtM/edit?usp=sharing" target="_blank">8-bit Shift Register Documentation</a></p>
+    </div>
+
+  <div style="text-align: center;">
+      <a href="#" target="_blank">
+        <img src="flightcomputer.jpg" width="200" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <p><a href="https://docs.google.com/document/d/1NXahZG1kMCwJgoy31Wl9p9HfCBf4LhcvIHkZc0R1yKk/edit?usp=sharing" target="_blank">SRAD Flight Computer Documentation</a></p>
+    </div>
+
+
   </div>
 </div>
 
 <!-- Experience Section -->
 <div id="experience" style="background-color: #D9B3FF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="font-size: 28px; color: #6E5494;">💼 Professional Experience</h2>
-  <div style="margin-bottom: 20px;">
-    <h3 style="font-size: 20px; color: #6E5494;"><strong>Data Science & AI Intern</strong> – Zain Group (Jul 2024 - Aug 2024)</h3>
-    <ul style="font-size: 16px; color: #6E5494;">
-      <li>Utilized Python, Tableau, and APIs to clean, organize, and visually present large datasets.</li>
-      <li>Built a churn prediction model using machine learning techniques.</li>
-      <li>Presented weekly data analysis findings to the marketing team.</li>
-    </ul>
-  </div>
-  <div style="margin-bottom: 20px;">
-    <h3 style="font-size: 20px; color: #6E5494;"><strong>Python Intern</strong> – Sitech (Jul 2023 - Oct 2023)</h3>
-    <ul style="font-size: 16px; color: #6E5494;">
-      <li>Led frontend development for "The College Cook" web app using JavaScript, HTML5, and CSS3.</li>
-      <li>Collaborated on backend development using Python and Django.</li>
-      <li>Encouraged collaborative coding among teammates for efficient project completion.</li>
-    </ul>
-  </div>
-  <div>
-    <h3 style="font-size: 20px; color: #6E5494;"><strong>Engineering Intern</strong> – Omrania & Associates (May 2021 - Aug 2021)</h3>
-    <ul style="font-size: 16px; color: #6E5494;">
-      <li>Collaborated with engineers on project planning, design, and implementation.</li>
-      <li>Delivered a comprehensive project status presentation for an ongoing initiative.</li>
-    </ul>
-  </div>
+   <div style="display: flex; justify-content: center; gap: 20px;">
+
+  <div style="text-align: center;">
+    <h1><strong>Data Science & AI Intern (Zain Group)</strong> – Jul 2024 - Aug 2024</h1>
+      <img src="zainlogo.jpeg"/>
+      <img src="workingatzain.jpeg"/>
+      <img scr="dashboardzain.jpeg"/>
+<p>
+●	Utilized Python, Tableau and APIs to clean, organize, and visually present large datasets to enhance analytical capabilities within the telecommunications sector.
+●	Analyzed customer behavior to improve customer retention and overall business success.
+●	Performed exploratory data analysis and applied machine learning to build a churn prediction model.
+●	Presented data analysis findings to marketing team weekly.
+![image](https://github.com/user-attachments/assets/15e2587c-ce96-47d0-b6c2-a42ac818f4f8)
+
+</p>
+  </div> 
+ <div style="text-align: center;">
+  <h1><strong>Python Intern (Sitech)</strong> – Jul 2023 - Oct 2023</h1>
+    <img src="workspacesitech.jpeg"/>
+    <img src="collegecook.jpeg"/>
+ <p>
+   ●	Led frontend development for "The College Cook" web app using JavaScript, HTML5, and CSS3.
+●	Utilized Python and Django for backend development. 
+●	Encouraged collaborative coding amongst teammates for efficient project completion.
+![image](https://github.com/user-attachments/assets/fd0cf715-1f71-4357-8bb1-58277f972606)
+ </p>
+  </div> 
+  <div style="text-align: center;">
+   <h1><strong>Engineering Intern (Omrania & Associates)</strong> – May 2021 - Aug 2021</h1>
+    <img src="kafd.jpeg"/>
+    <img src="omranialogo.jpeg"/>
+  <p>
+    ●	Collaborated with engineers to learn project planning, design, and implementation. 
+●	Delivered a comprehensive project status presentation for an ongoing project.
+![image](https://github.com/user-attachments/assets/ce5373cf-e51f-4013-94c3-55c006d9c117)
+
+  </p>
+  </div> 
 </div>
 
-<!-- Hobbies Section -->
+<!-- Skills Section -->
 <div id="skills" style="background-color: #CBA9E8; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h2 style="font-size: 28px; color: #6E5494;">🚀 Hobbies</h2>
+  <h2 style="font-size: 28px; color: #6E5494;">🛠 Hobbies</h2>
   <p style="font-size: 16px; color: #6E5494;">
-    I am a dedicated rocket science enthusiast and currently lead the avionics team for GW Rocket. I oversee a project to develop an SRAD flight computer, managing five specialized teams. My responsibilities include creating the project outline, delegating tasks, ensuring timely progress, and mentoring team members in coding concepts and debugging.
+    I am a dedicated rocket science enthusiast and currently lead the avionics team for GW Rocket. I am overseeing a project to develop an SRAD flight computer, where I established five specialized teams to handle various aspects of the design and implementation. My role involves creating the project outline, delegating tasks, ensuring progress stays on schedule, and providing technical guidance. I also mentor sophomores and freshmen, teaching them coding concepts, assisting with debugging, and ensuring they have a strong understanding of the work before contributing to the project.
   </p>
-  <div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="medoingrecovery.jpeg" width="200" style="border-radius: 10px;" />
-    <img src="myteam.jpeg" width="200" style="border-radius: 10px;" />
-    <img src="spaceportcup.jpeg" width="200" style="border-radius: 10px;" />
-  </div>
+    
+
+<img src="medoingrecovery.jpeg"/>
+<img src="myteam.jpeg"/>
+  <img src="spaceportcup.jpeg"/>
+
 </div>
