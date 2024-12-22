@@ -66,7 +66,7 @@
 
   </div>
 </div>
-
+</div>
 <!-- Experience Section -->
 <div id="experience" style="background-color: #D3C4FF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="font-size: 28px; color: #6E5494;">💼 Professional Experience</h2>
