@@ -12,7 +12,7 @@
 <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="#projects" style="background-color: #8B82F7; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Projects</a>
     <a href="#experience" style="background-color: #D3C4FF; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Experience</a>
-    <a href="#skills" style="background-color: #AA9CED; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Skills</a>
+    <a href="#skills" style="background-color: #AA9CED; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Hobbies</a>
   </div>
 </div>
 
