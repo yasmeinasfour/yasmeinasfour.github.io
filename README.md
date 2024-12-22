@@ -64,7 +64,13 @@
 
     <!-- Data Science & AI Intern -->
    <div style="text-align: center; flex: 1; min-width: 300px;">
-      <h3><strong>Data Science & AI Intern (Zain Group)</strong></h3>
+      <h3>
+        <strong>
+          <a href="https://zain.com/en" target="_blank" style="color: #6E5494; text-decoration: none;">
+            Data Science & AI Intern (Zain Group)
+          </a>
+        </strong>
+      </h3>
       <p>Jul 2024 - Aug 2024</p>
       <div style="height: 300px; overflow-y: scroll; border: 1px solid #6E5494; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
         <img src="zainlogo.jpeg" alt="Zain Logo" style="width: 100%; margin-bottom: 10px;" />
@@ -80,7 +86,13 @@
 
     <!-- Python Intern -->
   <div style="text-align: center; flex: 1; min-width: 300px;">
-      <h3><strong>Python Intern (Sitech)</strong></h3>
+      <h3>
+        <strong>
+          <a href="https://www.sitech.me/" target="_blank" style="color: #6E5494; text-decoration: none;">
+            Python Intern (Sitech)
+          </a>
+        </strong>
+      </h3>
       <p>Jul 2023 - Oct 2023</p>
       <div style="height: 300px; overflow-y: scroll; border: 1px solid #6E5494; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
         <img src="sitechoffice.jpeg" alt="Workspace at Sitech" style="width: 100%; margin-bottom: 10px;" />
@@ -95,7 +107,13 @@
 
     <!-- Engineering Intern -->
   <div style="text-align: center; flex: 1; min-width: 300px;">
-      <h3><strong>Engineering Intern (Omrania & Associates)</strong></h3>
+      <h3>
+        <strong>
+          <a href="https://omrania.com/" target="_blank" style="color: #6E5494; text-decoration: none;">
+            Engineering Intern (Omrania & Associates)
+          </a>
+        </strong>
+      </h3>
       <p>May 2021 - Aug 2021</p>
       <div style="height: 300px; overflow-y: scroll; border: 1px solid #6E5494; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
         <img src="thekafd.jpeg" alt="King Abdullah Financial District" style="width: 100%; margin-bottom: 10px;" />
@@ -109,6 +127,7 @@
 
   </div>
 </div>
+
 
 
 <!-- Skills Section -->
