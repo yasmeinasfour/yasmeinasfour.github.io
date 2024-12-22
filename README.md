@@ -79,7 +79,7 @@
   <div style="text-align: center; flex: 1; min-width: 300px;">
       <h3><strong>Python Intern (Sitech)</strong></h3>
       <p>Jul 2023 - Oct 2023</p>
-      <img src="workspacesitechh.jpeg" alt="Workspace at Sitech" style="width: 100%; margin-bottom: 10px;" />
+      <img src="sitechoffice.jpeg" alt="Workspace at Sitech" style="width: 100%; margin-bottom: 10px;" />
       <img src="collegecook.jpeg" alt="The College Cook App" style="width: 100%; margin-bottom: 10px;" />
       <ul style="font-size: 16px; color: #6E5494; text-align: left; margin: 0 auto; max-width: 90%;">
         <li>Led frontend development for "The College Cook" web app using JavaScript, HTML5, and CSS3.</li>
