@@ -60,11 +60,23 @@
 <!-- Experience Section -->
 <div id="experience" style="background-color: #D9B3FF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="font-size: 28px; color: #6E5494;">💼 Professional Experience</h2>
-  <ul style="list-style: none; padding: 0; text-align: left; font-size: 16px;">
-    <li><strong>Data Science & AI Intern (Zain Group)</strong> – Jul 2024 - Aug 2024</li>
-    <li><strong>Python Intern (Sitech)</strong> – Jul 2023 - Oct 2023</li>
-    <li><strong>Engineering Intern (Omrania & Associates)</strong> – May 2021 - Aug 2021</li>
-  </ul>
+   <div style="display: flex; justify-content: center; gap: 20px;">
+
+  <div style="text-align: center;">
+    <h1><strong>Data Science & AI Intern (Zain Group)</strong> – Jul 2024 - Aug 2024</h1>
+      <img src="zaininternship.jpeg"/>
+      <img src="workingatzain.jpeg"/>
+  </div> 
+ <div style="text-align: center;">
+  <h1><strong>Python Intern (Sitech)</strong> – Jul 2023 - Oct 2023</h1>
+    <img src="workspacesitech.jpeg"/>
+    <img src="collegecook.jpeg"/>
+  </div> 
+  <div style="text-align: center;">
+   <h1><strong>Engineering Intern (Omrania & Associates)</strong> – May 2021 - Aug 2021</h1>
+    <img src="medoingrecovery.jpeg"/>
+    <img src="medoingrecovery.jpeg"/>
+  </div> 
 </div>
 
 <!-- Skills Section -->
