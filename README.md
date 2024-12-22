@@ -60,41 +60,49 @@
 <!-- Experience Section -->
 <div id="experience" style="background-color: #D9B3FF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="font-size: 28px; color: #6E5494;">💼 Professional Experience</h2>
-   <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-  <div style="text-align: center;">
-    <h1><strong>Data Science & AI Intern (Zain Group)</strong> – Jul 2024 - Aug 2024</h1>
-      <img src="zainlogo.jpeg"/>
-      <img src="workingatzain.jpeg"/>
-      <img scr="dashboardzain.jpeg"/>
-  <ul style="font-size: 16px; color: #6E5494;">
-      <li>Utilized Python, Tableau, and APIs to clean, organize, and visually present large datasets.</li>
-      <li>Built a churn prediction model using machine learning techniques.</li>
-      <li>Presented weekly data analysis findings to the marketing team.</li>
-    </ul>
-  </div> 
-  
- <div style="text-align: center;">
-  <h1><strong>Python Intern (Sitech)</strong> – Jul 2023 - Oct 2023</h1>
-    <img src="workspacesitech.jpeg"/>
-    <img src="collegecook.jpeg"/>
- <ul style="font-size: 16px; color: #6E5494;">
-      <li>Led frontend development for "The College Cook" web app using JavaScript, HTML5, and CSS3.</li>
-      <li>Collaborated on backend development using Python and Django.</li>
-      <li>Encouraged collaborative coding among teammates for efficient project completion.</li>
-    </ul>
-  </div> 
-  <div style="text-align: center;">
-   <h1><strong>Engineering Intern (Omrania & Associates)</strong> – May 2021 - Aug 2021</h1>
-    <img src="thekafd.jpeg"/>
-    <img src="omranialogo.jpeg"/>
- <ul style="font-size: 16px; color: #6E5494;">
-      <li>Collaborated with engineers on project planning, design, and implementation.</li>
-      <li>Delivered a comprehensive project status presentation for an ongoing initiative.</li>
-    </ul>
-  </div> 
+    <!-- Data Science & AI Intern -->
+  <div style="text-align: center; flex: 1; min-width: 300px;">
+      <h3><strong>Data Science & AI Intern (Zain Group)</strong></h3>
+      <p>Jul 2024 - Aug 2024</p>
+      <img src="zainlogo.jpeg" alt="Zain Logo" style="width: 100px; margin-bottom: 10px;" />
+      <img src="workingatzain.jpeg" alt="Working at Zain" style="width: 100%; margin-bottom: 10px;" />
+      <img src="dashboardzain.jpeg" alt="Dashboard at Zain" style="width: 100%; margin-bottom: 10px;" />
+      <ul style="font-size: 16px; color: #6E5494; text-align: left; margin: 0 auto; max-width: 90%;">
+        <li>Utilized Python, Tableau, and APIs to clean, organize, and visually present large datasets.</li>
+        <li>Built a churn prediction model using machine learning techniques.</li>
+        <li>Presented weekly data analysis findings to the marketing team.</li>
+      </ul>
+    </div>
+
+    <!-- Python Intern -->
+  <div style="text-align: center; flex: 1; min-width: 300px;">
+      <h3><strong>Python Intern (Sitech)</strong></h3>
+      <p>Jul 2023 - Oct 2023</p>
+      <img src="workspacesitech.jpeg" alt="Workspace at Sitech" style="width: 100%; margin-bottom: 10px;" />
+      <img src="collegecook.jpeg" alt="The College Cook App" style="width: 100%; margin-bottom: 10px;" />
+      <ul style="font-size: 16px; color: #6E5494; text-align: left; margin: 0 auto; max-width: 90%;">
+        <li>Led frontend development for "The College Cook" web app using JavaScript, HTML5, and CSS3.</li>
+        <li>Collaborated on backend development using Python and Django.</li>
+        <li>Encouraged collaborative coding among teammates for efficient project completion.</li>
+      </ul>
+    </div>
+ <!-- Engineering Intern -->
+  <div style="text-align: center; flex: 1; min-width: 300px;">
+      <h3><strong>Engineering Intern (Omrania & Associates)</strong></h3>
+      <p>May 2021 - Aug 2021</p>
+      <img src="thekafd.jpeg" alt="King Abdullah Financial District" style="width: 100%; margin-bottom: 10px;" />
+      <img src="omranialogo.jpeg" alt="Omrania Logo" style="width: 100px; margin-bottom: 10px;" />
+      <ul style="font-size: 16px; color: #6E5494; text-align: left; margin: 0 auto; max-width: 90%;">
+        <li>Collaborated with engineers on project planning, design, and implementation.</li>
+        <li>Delivered a comprehensive project status presentation for an ongoing initiative.</li>
+      </ul>
+    </div>
+
+  </div>
 </div>
-</div>
+
 <!-- Skills Section -->
 <div id="skills" style="background-color: #CBA9E8; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="font-size: 28px; color: #6E5494;">🛠 Hobbies</h2>
