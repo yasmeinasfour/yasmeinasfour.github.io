@@ -63,36 +63,44 @@
   <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
     <!-- Data Science & AI Intern -->
-  <div style="text-align: center; flex: 1; min-width: 300px;">
+   <div style="text-align: center; flex: 1; min-width: 300px;">
       <h3><strong>Data Science & AI Intern (Zain Group)</strong></h3>
       <p>Jul 2024 - Aug 2024</p>
-      <img src="zainlogo.jpeg" alt="Zain Logo" style="width: 100%; margin-bottom: 10px;" />
-      <img src="workingatzain.jpeg" alt="Working at Zain" style="width: 100%; margin-bottom: 10px;" />
-      <img src="dashboardzain.jpeg" alt="Dashboard at Zain" style="width: 100%; margin-bottom: 10px;" />
+      <div style="height: 300px; overflow-y: scroll; border: 1px solid #6E5494; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+        <img src="zainlogo.jpeg" alt="Zain Logo" style="width: 100%; margin-bottom: 10px;" />
+        <img src="workingatzain.jpeg" alt="Working at Zain" style="width: 100%; margin-bottom: 10px;" />
+        <img src="dashboardzain.jpeg" alt="Dashboard at Zain" style="width: 100%; margin-bottom: 10px;" />
+      </div>
       <ul style="font-size: 16px; color: #6E5494; text-align: left; margin: 0 auto; max-width: 90%;">
         <li>Utilized Python, Tableau, and APIs to clean, organize, and visually present large datasets.</li>
         <li>Built a churn prediction model using machine learning techniques.</li>
         <li>Presented weekly data analysis findings to the marketing team.</li>
       </ul>
     </div>
-<!-- Python Intern -->
+
+    <!-- Python Intern -->
   <div style="text-align: center; flex: 1; min-width: 300px;">
       <h3><strong>Python Intern (Sitech)</strong></h3>
       <p>Jul 2023 - Oct 2023</p>
-      <img src="sitechoffice.jpeg" alt="Workspace at Sitech" style="width: 100%; margin-bottom: 10px;" />
-      <img src="collegecook.jpeg" alt="The College Cook App" style="width: 100%; margin-bottom: 10px;" />
+      <div style="height: 300px; overflow-y: scroll; border: 1px solid #6E5494; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+        <img src="sitechoffice.jpeg" alt="Workspace at Sitech" style="width: 100%; margin-bottom: 10px;" />
+        <img src="collegecook.jpeg" alt="The College Cook App" style="width: 100%; margin-bottom: 10px;" />
+      </div>
       <ul style="font-size: 16px; color: #6E5494; text-align: left; margin: 0 auto; max-width: 90%;">
         <li>Led frontend development for "The College Cook" web app using JavaScript, HTML5, and CSS3.</li>
         <li>Collaborated on backend development using Python and Django.</li>
         <li>Encouraged collaborative coding among teammates for efficient project completion.</li>
       </ul>
     </div>
- <!-- Engineering Intern -->
+
+    <!-- Engineering Intern -->
   <div style="text-align: center; flex: 1; min-width: 300px;">
       <h3><strong>Engineering Intern (Omrania & Associates)</strong></h3>
       <p>May 2021 - Aug 2021</p>
-      <img src="thekafd.jpeg" alt="King Abdullah Financial District" style="width: 100%; margin-bottom: 10px;" />
-      <img src="logoomrania.jpeg" alt="Omrania Logo" style="width: 100%; margin-bottom: 10px;" />
+      <div style="height: 300px; overflow-y: scroll; border: 1px solid #6E5494; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+        <img src="thekafd.jpeg" alt="King Abdullah Financial District" style="width: 100%; margin-bottom: 10px;" />
+        <img src="logoomrania.jpeg" alt="Omrania Logo" style="width: 100%; margin-bottom: 10px;" />
+      </div>
       <ul style="font-size: 16px; color: #6E5494; text-align: left; margin: 0 auto; max-width: 90%;">
         <li>Collaborated with engineers on project planning, design, and implementation.</li>
         <li>Delivered a comprehensive project status presentation for an ongoing initiative.</li>
@@ -101,6 +109,7 @@
 
   </div>
 </div>
+
 
 <!-- Skills Section -->
 <div id="skills" style="background-color: #CBA9E8; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
