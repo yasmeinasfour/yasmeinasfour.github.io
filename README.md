@@ -75,8 +75,7 @@
         <li>Presented weekly data analysis findings to the marketing team.</li>
       </ul>
     </div>
-
-    <!-- Python Intern -->
+<!-- Python Intern -->
   <div style="text-align: center; flex: 1; min-width: 300px;">
       <h3><strong>Python Intern (Sitech)</strong></h3>
       <p>Jul 2023 - Oct 2023</p>
