@@ -50,8 +50,14 @@
       <a href="#" target="_blank">
         <img src="flightcomputer.jpg" width="200" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
       </a>
-      <p><a href="https://docs.google.com/document/d/1NXahZG1kMCwJgoy31Wl9p9HfCBf4LhcvIHkZc0R1yKk/edit?usp=sharing" target="_blank">SRAD Flight Computer Documentation</a></p>
-    </div>
+     <p>
+  <a href="https://docs.google.com/document/d/1NXahZG1kMCwJgoy31Wl9p9HfCBf4LhcvIHkZc0R1yKk/edit?usp=sharing" 
+     target="_blank" 
+     style="color: white; text-decoration: none;">
+    SRAD Flight Computer Documentation
+  </a>
+</p>
+
 
 
   </div>
