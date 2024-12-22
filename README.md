@@ -86,7 +86,7 @@
   </div> 
   <div style="text-align: center;">
    <h1><strong>Engineering Intern (Omrania & Associates)</strong> – May 2021 - Aug 2021</h1>
-    <img src="kafd.jpeg"/>
+    <img src="thekafd.jpeg"/>
     <img src="omranialogo.jpeg"/>
  <ul style="font-size: 16px; color: #6E5494;">
       <li>Collaborated with engineers on project planning, design, and implementation.</li>
