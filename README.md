@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=2000&pause=250&color=8B82F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=+Hi+there!+I'm+Yasmein+Asfour;+an+Electrical+Engineering+major+with+a+minor+in+Computer+Science;Check+out+my+projects+and+experience+below!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=2000&pause=250&color=8B82F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=+Hi+there!+I'm+Yasmein+Asfour;+a+Computer+Engineering+major+with+a+minor+in+Computer+Science;Check+out+my+projects+and+experience+below!" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <img src="laptopgif.gif" width="200" />
@@ -19,7 +19,7 @@
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="profesh.jpeg" alt="Yasmein Asfour" style="width: 150px; border: 5px solid #C8B8F2; border-radius: 15px; margin-bottom: 15px;">
     <p style="font-size: 16px; color: #6E5494; text-align: justify; line-height: 1.6; font-family: EB Garamond;">
-      Yasmein Asfour is a sophomore from Chicago, Illinois. She is Palestinian-American and pursuing a major in Computer Engineering. She is interested in joining organizations such as the Society of Women Engineers, Engineers Without Borders, Institute of Electrical and Electronics Engineers, and the Muslim Student Association. Having traveled and lived abroad for several years, Yasmein looks forward to participating in the Study Abroad program in either Korea or London. She is enthusiastic about living in DC and hopes to learn more about the historical significance it holds.
+      Hi, I’m Yasmein Asfour! Currently a junior studying Computer Engineering with a minor in Computer Science at GW. I’m originally from Chicago and currently serve as Captain of the Avionics subteam on the GW Rocket Team, where I lead the development of our custom flight computer (puter'). I’m also part of the ECE Fun Committee and enjoy working on hands-on projects involving FPGAs, embedded systems, and machine learning. Living in DC has been a great experience—I love being surrounded by history and innovation.
     </p>
   </div>
 </div>
