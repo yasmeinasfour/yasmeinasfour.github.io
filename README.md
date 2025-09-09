@@ -19,7 +19,10 @@
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="profesh.jpeg" alt="Yasmein Asfour" style="width: 150px; border: 5px solid #C8B8F2; border-radius: 15px; margin-bottom: 15px;">
     <p style="font-size: 16px; color: #6E5494; text-align: justify; line-height: 1.6; font-family: EB Garamond;">
-      Hi, I’m Yasmein Asfour! Currently a junior studying Computer Engineering with a minor in Computer Science at GW. I’m originally from Chicago and currently serve as Captain of the Avionics subteam on the GW Rocket Team, where I lead the development of our custom flight computer (puter'). Living in DC has been a great experience—I love being surrounded by history and innovation.
+      Hi, I’m Yasmein Asfour! Currently a senior studying Computer Engineering with a minor in Computer Science at GW. I’m originally from Chicago and currently serve as Captain of the Avionics subteam on the GW Rocket Team, where I lead the development of our custom flight computer (puter'). Living in DC has been a great experience—I love being surrounded by history and innovation. 
+
+please feel free to reach me at: yasfour04@gwu.edu
+
     </p>
   </div>
 </div>
