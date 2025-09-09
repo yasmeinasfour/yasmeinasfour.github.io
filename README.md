@@ -23,7 +23,7 @@
 
 please feel free to reach me at: yasfour04@gwu.edu
 
-    </p>
+</p>
   </div>
 </div>
 
